@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">QuickPic2Gallery</string>
+	<string name="gallery">Gallery</string>
+	<string name="app_description">Change the QuickPic app name to the Gallery</string>
+	<string name="app_settings">Settings</string>
+	<string name="quickpic_name">QuickPic name</string>
+	<string name="custom_name">Custom name</string>
+
+</resources>

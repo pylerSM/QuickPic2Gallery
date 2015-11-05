@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/app_settings" >
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="custom_name"
+            android:title="@string/custom_name" />
+        <EditTextPreference
+            android:defaultValue="Gallery"
+            android:key="quickpic_name"
+            android:title="@string/quickpic_name" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

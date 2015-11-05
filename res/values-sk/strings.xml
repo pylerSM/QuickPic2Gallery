@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="gallery">Galéria</string>
+    <string name="app_description">Zmeniť názov aplikácie QuickPic na Galéria</string>
+	<string name="app_settings">Nastavenia</string>
+	<string name="quickpic_name">Názov QuickPic</string>
+	<string name="custom_name">Vlastný názov</string>
+
+</resources>
